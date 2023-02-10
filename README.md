@@ -1,16 +1,34 @@
-# flutter_ornek1
+# Map ve Class  
 
-A new Flutter project.
+##Map 
 
-## Getting Started
+1.icerik kesin degil  
 
-This project is a starting point for a Flutter application.
+2.turler yok;  
 
-A few resources to get you started if this is your first Flutter project:
+##Class  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1.icerik degiskenlerle temsil ediliyor  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2.turler var  
+
+* constructor  (fn alt insert yada alt insert generatede bunu acarak gorebilirsin  )  
+
+* field 
+
+* method 
+
+* getter 
+
+* setter 
+
+
+3.classlarin icine istedgimiz gibi fonksiyonlar koyabiliyoruz (clasla ilgili isler yapacak kodlari classin icinde fonksiyonlara koymak)  
+
+ static field ve method  
+
+ global degisken ve fonksiyon  
+
+* static anahtar fonksiyonlar veya degiskenler sanki global fonksiyon veya degiskenmis gibi calisiyor ve bunlarin nesnelerle hic alakasi olmuyor   
+
+  
